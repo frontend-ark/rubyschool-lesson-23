@@ -1,0 +1,27 @@
+<h2>Записаться</h2>
+<p>На этой странице вы сможете записаться к нам в Barber Shop</p>
+
+<form action="/visit" method="POST" role="form">
+  <div class="form-group">
+    <label>Your name:</label>
+    <input name="user_name" type="text" class="form-control" id="exampleInputEmail1" placeholder="Введите ваше имя">
+  </div>
+   <div class="form-group">
+    <label>Your phone:</label>
+    <input name="phone" type="text" class="form-control" id="exampleInputEmail1" placeholder="Телефон">
+  </div>
+  <div class="form-group">
+    <label>When you want to visit us?</label>
+    <input name="date_time" type="text" class="form-control" id="exampleInputEmail1" placeholder="Дата и время">
+  </div>
+  <div class="form-group">
+    <label for="masters">Выберите мастера:</label>
+    <select name="select_master" class="form-control" id="masters">
+      <option>. . .</option>
+      <option>Walter White</option>
+      <option>Jessie Pinkman</option>
+      <option>Gus Fring</option>
+    </select>
+  </div>
+  <button type="submit" class="btn btn-primery">Записаться</button>
+</form>
