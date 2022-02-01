@@ -9,3 +9,5 @@ User: , Phone: , Date and time: , Master: Walter White
 User: , Phone: , Date and time: , Master: Walter White
 User: zara, Phone: 222, Date and time: 13.03.2000, Master: Walter White
 User: zaz, Phone: 555-66-77, Date and time: 22/02/2002, Master: Walter White
+User: Ya, Phone: 555-04-04, Date and time: 22/03/2022, Master: Jessie Pinkman
+User: Ta, Phone: 34-33-22, Date and time: 03/02/2022, Master: Gus Fring, Color #dbadff
